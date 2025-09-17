@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# 🏥 Medicare Pro - Hospital Management System
 
 A full-stack **role-based hospital management system** built with **React (frontend)** and **Node.js + Express + Prisma (backend)**.  
 It manages patients, doctors, and appointments with secure role-based access.
